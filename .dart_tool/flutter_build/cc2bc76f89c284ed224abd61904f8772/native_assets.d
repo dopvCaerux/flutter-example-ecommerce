@@ -1,0 +1,1 @@
+ /Users/tsu/Documents/template/flutter/flutter-example-ecommerce/.dart_tool/flutter_build/cc2bc76f89c284ed224abd61904f8772/native_assets.yaml: 
